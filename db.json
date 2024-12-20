@@ -1,0 +1,215 @@
+{
+    "Tiendas": {
+      "Argentina": {
+        "Hipermercado Vicente López": {
+          "configuracion": {
+            "totalayer": 3600,
+            "total30dias": 36000,
+            "cajas": [
+              {
+                "id": 1,
+                "activa": false,
+                "abierta": true,
+                "clientes": 89,
+                "Tpromedio": 200,
+                "tiempo_cliente_en_atencion": 120,
+                "tiempo_cliente_en_espera": 75,
+                "tiempo_cliente_siguiente_en_espera": 230
+              },
+              {
+                "id": 2,
+                "activa": false,
+                "abierta": false,
+                "clientes": 99,
+                "Tpromedio": 150,
+                "tiempo_cliente_en_atencion": 95,
+                "tiempo_cliente_en_espera": 280,
+                "tiempo_cliente_siguiente_en_espera": 180
+              },
+              {
+                "id": 3,
+                "activa": false,
+                "abierta": false,
+                "clientes": 15,
+                "Tpromedio": 240,
+                "tiempo_cliente_en_atencion": 60,
+                "tiempo_cliente_en_espera": 145,
+                "tiempo_cliente_siguiente_en_espera": 290
+              },
+              {
+                "id": 4,
+                "activa": false,
+                "abierta": false,
+                "clientes": 62,
+                "Tpromedio": 300,
+                "tiempo_cliente_en_atencion": 200,
+                "tiempo_cliente_en_espera": 85,
+                "tiempo_cliente_siguiente_en_espera": 170
+              },
+              {
+                "id": 5,
+                "activa": false,
+                "abierta": false,
+                "clientes": 5,
+                "Tpromedio": 90,
+                "tiempo_cliente_en_atencion": 50,
+                "tiempo_cliente_en_espera": 190,
+                "tiempo_cliente_siguiente_en_espera": 240
+              },
+              {
+                "id": 6,
+                "activa": false,
+                "abierta": true,
+                "clientes": 3,
+                "Tpromedio": 120,
+                "tiempo_cliente_en_atencion": 130,
+                "tiempo_cliente_en_espera": 65,
+                "tiempo_cliente_siguiente_en_espera": 120
+              },
+              {
+                "id": 7,
+                "activa": true,
+                "abierta": true,
+                "clientes": 22,
+                "Tpromedio": 180,
+                "tiempo_cliente_en_atencion": 100,
+                "tiempo_cliente_en_espera": 210,
+                "tiempo_cliente_siguiente_en_espera": 80
+              },
+              {
+                "id": 8,
+                "activa": false,
+                "abierta": false,
+                "clientes": 32,
+                "Tpromedio": 210,
+                "tiempo_cliente_en_atencion": 240,
+                "tiempo_cliente_en_espera": 180,
+                "tiempo_cliente_siguiente_en_espera": 140
+              },
+              {
+                "id": 9,
+                "activa": false,
+                "abierta": false,
+                "clientes": 18,
+                "Tpromedio": 60,
+                "tiempo_cliente_en_atencion": 55,
+                "tiempo_cliente_en_espera": 105,
+                "tiempo_cliente_siguiente_en_espera": 220
+              },
+              {
+                "id": 10,
+                "activa": false,
+                "abierta": false,
+                "clientes": 8,
+                "Tpromedio": 95,
+                "tiempo_cliente_en_atencion": 200,
+                "tiempo_cliente_en_espera": 50,
+                "tiempo_cliente_siguiente_en_espera": 90
+              },
+              {
+                "id": 11,
+                "activa": false,
+                "abierta": false,
+                "clientes": 2,
+                "Tpromedio": 250,
+                "tiempo_cliente_en_atencion": 130,
+                "tiempo_cliente_en_espera": 90,
+                "tiempo_cliente_siguiente_en_espera": 60
+              },
+              {
+                "id": 12,
+                "activa": false,
+                "abierta": false,
+                "clientes": 70,
+                "Tpromedio": 270,
+                "tiempo_cliente_en_atencion": 230,
+                "tiempo_cliente_en_espera": 110,
+                "tiempo_cliente_siguiente_en_espera": 290
+              },
+              {
+                "id": 13,
+                "activa": true,
+                "abierta": true,
+                "clientes": 32,
+                "Tpromedio": 160,
+                "tiempo_cliente_en_atencion": 180,
+                "tiempo_cliente_en_espera": 75,
+                "tiempo_cliente_siguiente_en_espera": 130
+              },
+              {
+                "id": 14,
+                "activa": false,
+                "abierta": false,
+                "clientes": 24,
+                "Tpromedio": 75,
+                "tiempo_cliente_en_atencion": 140,
+                "tiempo_cliente_en_espera": 50,
+                "tiempo_cliente_siguiente_en_espera": 160
+              },
+              {
+                "id": 15,
+                "activa": false,
+                "abierta": true,
+                "clientes": 94,
+                "Tpromedio": 50,
+                "tiempo_cliente_en_atencion": 210,
+                "tiempo_cliente_en_espera": 120,
+                "tiempo_cliente_siguiente_en_espera": 100
+              },
+              {
+                "id": 16,
+                "activa": false,
+                "abierta": false,
+                "clientes": 7,
+                "Tpromedio": 30,
+                "tiempo_cliente_en_atencion": 90,
+                "tiempo_cliente_en_espera": 40,
+                "tiempo_cliente_siguiente_en_espera": 220
+              },
+              {
+                "id": 17,
+                "activa": false,
+                "abierta": false,
+                "clientes": 82,
+                "Tpromedio": 110,
+                "tiempo_cliente_en_atencion": 280,
+                "tiempo_cliente_en_espera": 190,
+                "tiempo_cliente_siguiente_en_espera": 90
+              },
+              {
+                "id": 18,
+                "activa": false,
+                "abierta": true,
+                "clientes": 62,
+                "Tpromedio": 190,
+                "tiempo_cliente_en_atencion": 170,
+                "tiempo_cliente_en_espera": 80,
+                "tiempo_cliente_siguiente_en_espera": 150
+              },
+              {
+                "id": 19,
+                "activa": true,
+                "abierta": true,
+                "clientes": 0,
+                "Tpromedio": 10,
+                "tiempo_cliente_en_atencion": 10,
+                "tiempo_cliente_en_espera": 20,
+                "tiempo_cliente_siguiente_en_espera": 30
+              },
+              {
+                "id": 20,
+                "activa": false,
+                "abierta": true,
+                "clientes": 93,
+                "Tpromedio": 300,
+                "tiempo_cliente_en_atencion": 290,
+                "tiempo_cliente_en_espera": 190,
+                "tiempo_cliente_siguiente_en_espera": 70
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+  
